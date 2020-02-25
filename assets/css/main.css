@@ -4279,7 +4279,7 @@
 			#footer button.special,
 			#footer .button.special {
 				background-color: #ffffff;
-				color: #F64747 !important;
+				color: #E31837 !important;
 			}
 
 		#footer label {
@@ -4323,7 +4323,7 @@
 		#footer input[type="radio"]:checked + label:before {
 			background-color: #ffffff;
 			border-color: #ffffff;
-			color: #F64747;
+			color: #E31837;
 		}
 
 		#footer input[type="checkbox"]:focus + label:before,
